@@ -1,6 +1,5 @@
-# These are my *live*, in-progress, notes for the CCNA 200-301 course provided by Jeremy's IT Lab.
-## *This repo is routinely updated to show my progress!*
-###### Yeah, yeah, I committed to markdown notes. Sue me. Obsidian feels fancy.
+### These are my *live*, in-progress, notes for the CCNA 200-301 course provided by Jeremy's IT Lab.
+### *This repo is <u><i>routinely updated</i></u> to show my progress!*
 ### Included:
 - (Probably Way Too) Comprehensive Lecture Notes (days 2-4 are a bit incomplete because I already knew the material)
 	- Screenshots of materials when I felt it was necessary 
@@ -10,3 +9,4 @@
 	- Outline in .md format
 	- Considering adding backlinks to various Lecture Notes topics in this document 
 		- Although, "Routers," for example is very broad, and probably doesn't require a link
+###### Yeah, yeah, I committed to markdown notes. Sue me. Obsidian feels fancy.
