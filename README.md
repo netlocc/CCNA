@@ -10,4 +10,3 @@
 	- Outline in .md format
 	- Considering adding backlinks to various Lecture Notes topics in this document 
 		- Although, "Routers," for example is very broad, and probably doesn't require a link
-###### Yeah, yeah, I committed to markdown notes. Sue me. Obsidian feels fancy.
