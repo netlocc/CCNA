@@ -1,4 +1,4 @@
-### These are my *live*, in-progress, notes for the CCNA 200-301 course provided by Jeremy's IT Lab.
+### These are my *live*, in-progress notes for the CCNA 200-301 course provided by Jeremy's IT Lab.
 ### *This repo is <u><i>routinely updated</i></u> to show my progress!*
 ### Included:
 - (Probably Way Too) Comprehensive Lecture Notes
