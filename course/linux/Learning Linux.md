@@ -1,14 +1,3 @@
-[discuss the desire to run networking equipment at home]
-[discuss reasons as to why linux is important to networking jobs]
-[]
-
-
-
-
-
-
-
-
 My love for computers and desire to work in IT is becoming impossible to ignore, who would have thought? I think it's about time to stop uninstalling Linux every time I hit a wall. Before starting this, I had been the type of enthusiast to gain lots of excitement from hearing about the sustainability, performance and customisability of Linux systems, and timidly (read: terrified, being the PC-loving kid I was, to ruin the family computer) would crawl through the installation instructions, trying not to worry about snarky forum users I saw who turned their noses up at the suggestion that someone might use a GUI Windows binary like Rufus or something, or even worse "Umm, really? Ubuntu...?" How embarrassing! If only it weren't over a decade before I would start to understand what I really wanted in life, and that those people were so, so painfully wrong.
 I will admit that as a teenager I have done the "reinstall of shame," that is, hopping into bios to boot from my Windows recovery partition, probably five times. I simply didn't know enough, not even just about computers. An immense amount of work had to be done to rectify this situation. And it turned out it had nothing to do with Linux. Once I actually returned in a decent enough headspace to stay calm through the problem-solving process and knowing what I know now, I'm more prepared than ever.
 Finally fed up with frustrations of the self, and those of Windows 11, I backed up all of my precious configs, documents, photos, save games, notes, yadda, yadda... took one last look at the thing mentally holding me back, and took the plunge. 
