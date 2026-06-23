@@ -87,6 +87,7 @@ to
 - 2^x = number of subnets
 - (x = number of borrowed bits)
 - Borrowing 1 bit = /24->/25 = can make 2 subnets
+- (If there are no borrowed bits, the max number of subnets is 1!!! Like in the case of a /16 network, class B network.)
 
 ### Identify the Subnet
 What subnet does host 192.168.29.219/29 belong to?
